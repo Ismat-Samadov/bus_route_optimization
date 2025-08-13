@@ -41,9 +41,9 @@ export const metadata: Metadata = {
     description: "Create beautiful pixel art with our free online drawing tool. Mobile-friendly with color palette and PNG export.",
     images: [
       {
-        url: "/og-image.png",
-        width: 1200,
-        height: 630,
+        url: "/icon-512.png",
+        width: 512,
+        height: 512,
         alt: "Pixel Art Canvas - Online Drawing Tool",
       },
     ],
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Pixel Art Canvas - Free Online Pixel Drawing Tool",
     description: "Create beautiful pixel art with our free online drawing tool. Mobile-friendly with color palette and PNG export.",
-    images: ["/og-image.png"],
+    images: ["/icon-512.png"],
   },
   robots: {
     index: true,
@@ -77,6 +77,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <link rel="icon" href="/favicon.ico" sizes="any" />
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
