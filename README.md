@@ -625,9 +625,9 @@ The Baku public bus transit network faces **systemic inefficiencies** that under
 
 **Reproducibility:** All analysis is fully reproducible using provided scripts and data.
 
-**Document Version:** 1.0
-**Last Updated:** February 2026
-**Next Review:** Post-Phase 1 Pilot Completion
+- **Document Version:** 1.0
+- **Last Updated:** February 2026
+- **Next Review:** Post-Phase 1 Pilot Completion
 
 ---
 
