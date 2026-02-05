@@ -1,9 +1,9 @@
 # Baku Public Transit Network Optimization
 ## Strategic Analysis & Implementation Roadmap
 
-**Prepared for:** Baku Transport Authority & Urban Mobility Planners
-**Analysis Date:** February 2026
-**Document Status:** Strategic Recommendations for Decision
+- **Prepared for:** Baku Transport Authority & Urban Mobility Planners
+- **Analysis Date:** February 2026
+- **Document Status:** Strategic Recommendations for Decision
 
 ---
 
