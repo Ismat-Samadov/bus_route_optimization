@@ -565,15 +565,15 @@ The Baku public bus transit network faces **systemic inefficiencies** that under
 
 ### A. Technical Documentation
 
-**Detailed Analysis:**
-- [Route Network Analysis](docs/busDetails.md) — Topology, overlap, resource waste, ecological impact
-- [Stop Infrastructure Analysis](docs/stops.md) — Spacing, density, hub strategy, accessibility
+**Strategic Analysis Reports:**
+- [Route Network Optimization](docs/route_network_optimization.md) — Comprehensive route topology analysis, overlap quantification, resource waste diagnostics, ecological impact assessment, and optimization strategies
+- [Stop Infrastructure Optimization](docs/stop_infrastructure_optimization.md) — Stop spacing analysis, density assessment, hub strategy, accessibility considerations, and consolidation plans
 
-**Analysis Scripts:**
-- `scripts/network_analysis.py` — Comprehensive network metrics computation
-- `scripts/generate_charts.py` — Visualization generation
-- `scripts/busDetails.py` — Bus route data collection
-- `scripts/stops.py` — Stop data collection
+**Script Documentation:**
+- [network_analysis.py](docs/network_analysis.md) — Network analysis module documentation
+- [generate_charts.py](docs/generate_charts.md) — Chart generation system documentation
+- [busDetails.py](docs/busDetails.md) — Bus route data collection API documentation
+- [stops.py](docs/stops.md) — Stop data collection API documentation
 
 **Data:**
 - `data/busDetails.json` — Full route details (208 routes)
