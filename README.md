@@ -534,11 +534,11 @@ The Baku public bus transit network faces **systemic inefficiencies** that under
 
 **A comprehensive, phased optimization program can achieve:**
 
-✓ **30-40% operational cost reduction** ($3.5-4.0M annual savings)
-✓ **22 km/h average operating speed** (industry benchmark, +15-20% improvement)
-✓ **1,278 tons annual CO₂ reduction** (route + stop optimization)
-✓ **Enhanced service quality** through frequency improvements and reliability gains
-✓ **Network efficiency score >80/100** (good performance standard)
+- ✓ **30-40% operational cost reduction** ($3.5-4.0M annual savings)
+- ✓ **22 km/h average operating speed** (industry benchmark, +15-20% improvement)
+- ✓ **1,278 tons annual CO₂ reduction** (route + stop optimization)
+- ✓ **Enhanced service quality** through frequency improvements and reliability gains
+- ✓ **Network efficiency score >80/100** (good performance standard)
 
 ### The Path Forward
 
